@@ -75,23 +75,6 @@
   margin: 0 auto;
 }
 
-/* fatcs */
-
-#facts {
-background-position: center top !important;
-}
-.counters-item {
-  margin-bottom: 30px;
-}
-
-.counters-item i {
-  margin: 0 0 15px;
-}
-
-.counters-item strong {
-  font-size: 45px;
-}
-
 /* contact */
 
 .contact-form .name-email input {
@@ -181,15 +164,6 @@ background-position: center top !important;
   margin: 0 auto;
 }
 
-/* facts */
-
-#facts {
-background-position: center top !important;
-}
-
-.counters-item {
-  margin-bottom: 30px;
-}
 
 /* contact */
 .contact-address {
